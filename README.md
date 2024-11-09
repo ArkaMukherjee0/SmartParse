@@ -14,7 +14,7 @@ SmartParse is a powerful PDF processing app leveraging Retrieval-Augmented Gener
 ---
 
 ## 🖼️ Screenshot
-![SmartParse Screenshot](image_2024-11-09_123042028.png)
+![SmartParse Screenshot](assets/image_2024-11-10_010800043.png)
 
 ---
 
