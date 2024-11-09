@@ -74,3 +74,14 @@ To start the Streamlit app, run:
 ```bash
 streamlit run app.py
 
+## 📘 Usage
+
+1. **Upload Your PDF**  
+   Click on **"Please upload a PDF file to get started!"** to upload the PDF you want to analyze.
+
+2. **Ask Questions**  
+   Once processing is complete, enter any questions related to the PDF content in the provided text box.
+
+3. **View Answers**  
+   Instantly see the answer to your question, complete with source references, displayed in real-time.
+
