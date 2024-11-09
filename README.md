@@ -73,6 +73,7 @@ SmartParse is a powerful PDF processing app leveraging Retrieval-Augmented Gener
 To start the Streamlit app, run:
 ```bash
 streamlit run app.py
+```
 
 ## 📘 Usage
 
@@ -84,4 +85,21 @@ streamlit run app.py
 
 3. **View Answers**  
    Instantly see the answer to your question, complete with source references, displayed in real-time.
+
+## 👥 Contributing
+
+We welcome contributions to enhance SmartParse! To contribute:
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a detailed description of your changes.
+
+We’re excited to collaborate with you!
+
+---
+
+## 📧 Contact
+
+For questions, suggestions, or support, please reach out via email at [arka.mukherjee078@gmail.com](mailto:arka.mukherjee078@gmail.com).
+
+---
 
