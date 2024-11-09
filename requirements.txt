@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+langchain
+langchain_community
+langchain_groq
+sentence-transformers
+faiss-cpu
+rouge-score
+python-dotenv
