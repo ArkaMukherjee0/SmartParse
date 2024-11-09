@@ -44,7 +44,7 @@ SmartParse instantly transforms complex PDFs into accessible insights, saving yo
 
     """)
 st.sidebar.markdown("""
-                📄[GitHub repo](https://github.com/sohambuilds/llmapiexp/blob/main/app.py)
+                📄[GitHub repo](https://github.com/ArkaMukherjee0/SmartParse)
                 """)
 
 st.sidebar.markdown("""
